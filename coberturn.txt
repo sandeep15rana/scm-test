@@ -1,0 +1,3 @@
+Hello,
+
+This is QA_METRICS_CHECK Jenkins execution !!
